@@ -1,4 +1,4 @@
-Identifying protected species constraints for the [https://www.boem.gov/renewable-energy/state-activities/central-atlantic](Central Atlantic 2 Call Area) to inform NCCOS' spatial modeling.
+Identifying protected species constraints for the [Central Atlantic 2 Call Area](https://www.boem.gov/renewable-energy/state-activities/central-atlantic) to inform NCCOS' spatial modeling.
 
 ### Legal disclaimer
 
