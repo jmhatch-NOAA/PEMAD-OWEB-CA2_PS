@@ -5,7 +5,7 @@ Version: 0.0001
 Date: 2024-10-09
 Author: Joshua Hatch
 Maintainer: Joshua Hatch <joshua.hatch@noaa.gov>
-Description: A repository of sea turtle critical habitat and central Atlantic call area in simple features, sf, format for use with R.
+Description: A repository of sea turtle critical habitat and the central Atlantic 2 call area in simple features, sf, format for use with R.
 License: GPL (>= 2)
 Depends: R (>= 3.5.0)
 Imports: sf
