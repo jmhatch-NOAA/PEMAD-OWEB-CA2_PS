@@ -4,17 +4,10 @@
 
 A repository of sea turtle critical habitat and the central Atlantic 2 call area in simple features [`sf`](https://r-spatial.github.io/sf/) format stored in an *.rda file for use with [`R`](https://www.r-project.org/).
 
-Helping to identify protected species (i.e., sea turtle) constraints for the [Central Atlantic 2 Call Area](https://www.boem.gov/renewable-energy/state-activities/central-atlantic) to inform NCCOS' spatial modeling.
-
 ### Installation
 
 ```
 devtools::install_github('jmhatch-NOAA/PEMAD-OWEB-CA2_PS')
-```
-
-## Load into R
-
-```
 library(CA2)
 ```
 
